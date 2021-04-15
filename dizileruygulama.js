@@ -99,6 +99,10 @@ var studentB = ['ömer','faruk',1994];
 var studentC =['Oğuzhan','turan',1997];
 
 var students = [studentA,studentB,studentC];
+
+
+console.log(students[0]);
+console.log(students[0][0]);
 console.log(students);
 
 

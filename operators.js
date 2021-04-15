@@ -49,6 +49,9 @@ val = a<=b;
     // f&&f=f
     val= (a>b) && (a>c)
     // || (OR)
+    val= (a>b) && (a>c)
+    val = (a>b) || (a<c)
+    val = !(a>b) 
     // !
 
 
